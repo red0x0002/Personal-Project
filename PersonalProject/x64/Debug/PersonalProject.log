@@ -1,0 +1,13 @@
+﻿  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\PersonalProject\PersonalProject\imgui-master\imgui_widgets.cpp(1171,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\PersonalProject\PersonalProject\main.cpp(194,45): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\PersonalProject\PersonalProject\main.cpp(195,45): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\PersonalProject\PersonalProject\imgui-master\imgui_widgets.cpp(1185): warning C4715: 'ImGui::CheckboxBVM': not all control paths return a value
+  PersonalProject.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2022\Projects\PersonalProject\x64\Debug\PersonalProject.exe
